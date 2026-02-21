@@ -1,5 +1,7 @@
-                                                      **Superstore Sales Dashboard Summary Report**
-                                                      ---
+                                                 <u>**Superstore Sales Dashboard Summary Report**</u>
+---
+
+==========================================================================================================
 
 **Introduction** :
                   
