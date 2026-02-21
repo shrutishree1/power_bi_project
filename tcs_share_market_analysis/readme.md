@@ -1,5 +1,5 @@
 
-======================================================================================================
+=============================================================================
 
 **Introduction**:
         TCS (Tata Consultancy Services) is one of the leading global IT services, consulting, and
@@ -8,7 +8,7 @@
         performance using Power BI, focusing on key metrics such as opening price, closing
         price, high and low prices, and total trading volume.
 
-======================================================================================================
+=============================================================================
 
 **Data Overview**:
 The data used for this analysis spans a certain period and includes the following
@@ -20,7 +20,7 @@ columns:
 - Tata Low: Lowest price of TCS shares reached during the trading day
 - Total Volume: Total volume of TCS shares traded on the given date
 
-======================================================================================================
+=============================================================================
 
 **What’s there in the dashboard**:
         
@@ -43,7 +43,7 @@ columns:
         5. We have the difference in High-Low & Close-Open prices to get a view of what is
           happening with the share prices on the daily basis.
 
-======================================================================================================
+=============================================================================
 
 **Analysis**:
 
@@ -69,7 +69,7 @@ columns:
                   - Price Range: Understanding the range between high and low & opening and closing
                     prices helps in assessing the stock's volatility and potential for profit or loss.
 
-======================================================================================================
+=============================================================================
 
 **Conclusion**:
 
@@ -79,7 +79,7 @@ such as opening and closing prices, high and low prices, and trading volume prov
 valuable insights for investors and stakeholders. Power BI's visualization capabilities
 facilitate comprehensive analysis and decision-making based on real-time data.
 
-======================================================================================================
+=============================================================================
 
 **Recommendations**:
                 - Investors should closely monitor TCS's performance indicators to make informed
