@@ -1,4 +1,4 @@
-                                     **Superstore Sales Dashboard Summary Report**
+**Superstore Sales Dashboard Summary Report**
 ---
 
 ==========================================================================================================
